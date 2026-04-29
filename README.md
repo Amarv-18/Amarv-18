@@ -16,22 +16,24 @@
 ---
 
 ## 🛠 Skills
-- Languages: Java,C
+-Languages: Java,C
 - Web: HTML, CSS, React, JavaScript 
 - Tools: Git, Visual Studio, AWS
 
 ---
 
 ## 📌 Projects
-- Hotel Management System using SQL - Hotel Management System built with SQL to organize room allocation, customer data, and transactions
+- Hotel Management System using SQL - Hotel Management System built with SQL to organize room allocation, customer data, and transactions.
 - Object Detection Using AI - Developed an object detection application using AI for accurate object identification.
-- EPhishing Detection using Machine Learning based URL Analysis - Developed a machine learning model to detect phishing websites using URL-based features
+- EPhishing Detection using Machine Learning based URL Analysis - Developed a machine learning model to detect phishing websites using URL-based features.
 
 
 ---
 
 
-## Contact
+## 📫 Contact
 -📧 Email: amarendraama901gmail.com
--💼 LinkedIn: https://www.linkedin.com/in/amarendra-r-p-aab682286 
+
+-💼 LinkedIn: https://www.linkedin.com/in/amarendra-r-p-aab682286
+
 -🧑‍💻 GitHub: https://github.com/Amarv-18
