@@ -16,7 +16,7 @@
 ---
 
 ## 🛠 Skills
--Languages: Java,C
+- Languages: Java,C
 - Web: HTML, CSS, React, JavaScript 
 - Tools: Git, Visual Studio, AWS
 
@@ -32,7 +32,7 @@
 
 
 ## 📫 Contact
--📧 Email: amarendraama901gmail.com
+-📧 Email: amarendraamar901@gmail.com
 
 -💼 LinkedIn: https://www.linkedin.com/in/amarendra-r-p-aab682286
 
